@@ -6,7 +6,7 @@
 - 📫 Reach me at hkmahediazad@gmail.com
 
 <p float="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=hkmahediazad" width="600" hspace="20" />
+  <img src="https://github-readme-stats.vercel.app/api?username=hkmahediazad" width="600" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hkmahediazad" width="250" /> 
 </p>
 
