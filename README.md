@@ -1,8 +1,9 @@
 - 👋 Hi, I’m H. K. Mahedi Azad
-- 👀 I’m interested in Machine Leraning
-- 🌱 I’m currently learning Python & Machine Learning Algorithms
-- ✨ I was the Co-Founder of Prolific Tech Solution, one of the growing IT Companines in Bangladesh
-- 💞️ I’m looking to collaborate on machine learning projects and research publications
+- 👀 Mechanical Engineer, Researcher, and Machine Leraning enthusiast
+- 🌱 Research Interests: Composite Materials, Machine Learning, Data-driven Dynamical Systems
+- ✨ Former Co-Founder of Prolific Tech Solution, one of the growing IT Companines in Bangladesh
+- 💞️ Open to collaborate on machine learning projects and research publications
+- 🌍 Find more about myself at https://sites.google.com/view/hkmahediazad
 - 📫 Reach me at hkmahediazad@gmail.com
 
 <p float="left">
