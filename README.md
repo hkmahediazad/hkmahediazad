@@ -1,5 +1,5 @@
 - 👋 Hi, I’m H. K. Mahedi Azad
-- 👀 Mechanical Engineer, Researcher, and Machine Leraning enthusiast
+- 👀 Mechanical Engineer, Researcher, and Machine Learning enthusiast
 - 🌱 Research Interests: Composite Materials, Machine Learning, Data-driven Dynamical Systems
 - ✨ Former Co-Founder of Prolific Tech Solution, one of the growing IT Companines in Bangladesh
 - 💞️ Open to collaborate on machine learning projects and research publications
