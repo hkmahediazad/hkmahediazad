@@ -9,7 +9,7 @@
 
 <p float="left">
   <img src="https://github-readme-stats.vercel.app/api?username=hkmahediazad" width="500" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hkmahediazad" width="200" /> 
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hkmahediazad" width="228" /> 
 </p>
 
 
