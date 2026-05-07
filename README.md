@@ -7,11 +7,6 @@
 - 🌍 Portfolio: https://sites.google.com/view/hkmahediazad
 - 📬 Email: hkmahediazad@gmail.com
 
-<p float="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=hkmahediazad" width="500" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hkmahediazad" width="228" /> 
-</p>
-
 
 <!---
 hkmahediazad/hkmahediazad is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
